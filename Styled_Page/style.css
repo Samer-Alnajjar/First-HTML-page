@@ -19,3 +19,10 @@ body {
   background-color: rgb(179, 132, 72);
   color: white;
 }
+
+/*Coppied from the below website*/ 
+/*https://css-tricks.com/couple-takes-sticky-footer/*/
+#footer,
+.push {
+  width: 100%;
+}
