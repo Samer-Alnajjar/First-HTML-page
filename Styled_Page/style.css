@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.color {
+  background-color: burlywood;
+}
+
+.meow {
+  color: rgb(179, 132, 72);
+}
+
+.images div {
+  display: inline-block;
+}
+
+.cats {
+  background-color: rgb(179, 132, 72);
+  color: white;
+}
