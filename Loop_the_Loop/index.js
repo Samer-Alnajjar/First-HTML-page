@@ -52,7 +52,7 @@ let showCat = function() {
   let result = "";
 
   for(let i = 0; i < total; i++) {
-    result = result + '<p>cat number #' + i+1 + " " + cat + '</p>'
+    result = result + '<p>cat number #' + i + " " + cat + '</p>'
   }
 
   alert("Please scroll down to see your cat/s");
